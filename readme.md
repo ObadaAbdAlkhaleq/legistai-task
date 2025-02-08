@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 4. Run the Flask application:
 ```bash
-python app.test
+python app.py
 ```
 
 The API will be available at `http://localhost:5000`
